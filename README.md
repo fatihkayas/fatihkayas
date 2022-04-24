@@ -6,6 +6,9 @@
 
 ## <img alt="Coding" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/D4D03AQH_O4BJRT7qUg/profile-displayphoto-shrink_800_800/0/1643274740385?e=1652918400&v=beta&t=gv6KhrT0n3B0R3zdhl7Dh3VK5KvdWWsny7QsGR88bVM" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
 
+    ## snake eating my contrubution graph 
+  ![snake gif](https://github.com/fatihkayas/fatihkayas/blob/output/github-contribution-grid-snake.gif)
+  
   
 - 👋 Hi, I’m Mehmet Fatih Yasar
 - 👨‍🎓 I’m an aws devops engineer 
@@ -39,3 +42,8 @@ fatihkayas/fatihkayas is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![image](https://user-images.githubusercontent.com/92534178/158592730-dd561fc1-610c-4956-9bb1-a89948311d65.png)
+  
+  
+
+  
+  
